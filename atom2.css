@@ -7,7 +7,7 @@ h1{
   text-align:left;
 }
 
-.leuk div{
+.leuk{
   display:block;
 margin-left:200px;
 margin-right:200px;
@@ -44,12 +44,13 @@ ol{color:lightblue;
   list-style: inside;
 }
 
-.btn{border:none;
+.btn{border:yes;
 color:black;
-padding:15px 30px;
+padding:20px 60px;
 font-size: 20px;
 cursor:pointer;
 background-color: rgb(200,200,200);}
+
 
 #customers {background-color:#2ECCFA;}
 
